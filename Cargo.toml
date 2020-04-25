@@ -6,4 +6,4 @@ edition = "2018"
 publish = false
 
 [dependencies]
-rppal = "0.11.3"
+gpio-cdev = "0.2.0"
